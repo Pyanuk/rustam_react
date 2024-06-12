@@ -1,0 +1,22 @@
+{
+    "card": [
+        {
+            "myId": "1",
+            "id": "1",
+            "name": "MACBOOK AIR M2",
+            "description": "MacBook Air M2 – это обновленная версия популярного ноутбука от Apple, выпущенная в 2022 году. Он оснащен новым процессором Apple M2, который представляет собой второй поколение чипов Apple Silicon, обеспечивающий высокую производительность и энергоэффективность. ",
+            "price": "205990₽",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPSuhl7YRnMMknaQcC7Szgd1yB-Va9deFOee0Mwncxe8Ob-KYbyPbuKanL50FmB_UEyII&usqp=CAU"
+          },
+          {
+            "myId": "2",
+            "id": "2",
+            "name": "IPAD PRO 2022",
+            "description": "iPad Pro 2022 – это обновлённая версия флагманского планшета от Apple, которая была представлена в октябре 2022 года. Это устройство предназначено для профессиональных пользователей и отличается высокой производительностью и множеством современных функций. ",
+            "price": "87990₽",
+            "url": "https://my-apple-store.ru/wa-data/public/shop/products/20/38/13820/images/23719/23719.500@2x.jpg"
+          }
+    ]
+
+
+}
